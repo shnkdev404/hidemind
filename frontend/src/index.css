@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-serif: Georgia, "Times New Roman", serif;
+  --color-brand-50: #f0fdfa;
+  --color-brand-100: #ccfbf1;
+  --color-brand-500: #14b8a6;
+  --color-brand-600: #0d9488;
+  --color-brand-700: #0f766e;
+  --color-brand-900: #134e4a;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 antialiased;
+}
+
+.prose-munshi h1, .prose-munshi h2, .prose-munshi h3 { @apply font-semibold text-slate-900 mt-4 mb-2; }
+.prose-munshi h1 { @apply text-lg; }
+.prose-munshi h2 { @apply text-base; }
+.prose-munshi h3 { @apply text-sm uppercase tracking-wide text-slate-500; }
+.prose-munshi p { @apply my-2 leading-relaxed; }
+.prose-munshi ul { @apply list-disc pl-5 my-2 space-y-1; }
+.prose-munshi ol { @apply list-decimal pl-5 my-2 space-y-1; }
+.prose-munshi strong { @apply text-slate-900; }
+.prose-munshi table { @apply text-sm my-2; }
+.prose-munshi td, .prose-munshi th { @apply border border-slate-200 px-2 py-1; }

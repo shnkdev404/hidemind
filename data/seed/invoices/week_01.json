@@ -1,0 +1,449 @@
+[
+  {
+    "id": "INV-NCS-0432-W01",
+    "vendor_id": "V03",
+    "invoice_no": "NCS/26-27/0432",
+    "invoice_date": "2026-07-06",
+    "po_ref": "PO-267729",
+    "gstin": "29AAFCN5530H1ZD",
+    "bank_account": "214832269481",
+    "bank_ifsc": "ICIC0000104",
+    "sender_email": "accounts@nimbuscloud.io",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "description": "ERP Cloud Subscription - 45 users (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 84000.0,
+        "gst_rate": 18
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "description": "Additional Storage 500 GB (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 6500.0,
+        "gst_rate": 18
+      }
+    ],
+    "charges": [],
+    "subtotal": 90500.0,
+    "gst_amount": 16290.0,
+    "total": 106790.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-NCS-0432-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-APX-0421-W01",
+    "vendor_id": "V05",
+    "invoice_no": "APX/26-27/0421",
+    "invoice_date": "2026-07-07",
+    "po_ref": "PO-267747",
+    "gstin": "36ACOFA2287D1ZC",
+    "bank_account": "136171878809",
+    "bank_ifsc": "UTIB0000733",
+    "sender_email": "accounts@apexlogistics.in",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000.0,
+        "gst_rate": 12
+      }
+    ],
+    "charges": [],
+    "subtotal": 84000.0,
+    "gst_amount": 10080.0,
+    "total": 94080.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-APX-0421-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-TSP-0468-W01",
+    "vendor_id": "V07",
+    "invoice_no": "TSP/26-27/0468",
+    "invoice_date": "2026-07-07",
+    "po_ref": null,
+    "gstin": "36AAFCT4130N1Z5",
+    "bank_account": "714294294451",
+    "bank_ifsc": "SBIN0005943",
+    "sender_email": "accounts@tssouthernpower.com",
+    "lines": [
+      {
+        "sku": "UTL-HT-POWER",
+        "description": "HT Electricity Charges - Service No. CHP-11-4471 (Jun 2026)",
+        "hsn": "2716",
+        "unit": "BILL",
+        "qty": 1,
+        "unit_price": 171101.37,
+        "gst_rate": 0
+      }
+    ],
+    "charges": [],
+    "subtotal": 171101.37,
+    "gst_amount": 0.0,
+    "total": 171101.37,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-TSP-0468-W01.pdf",
+    "ground_truth": {
+      "action": "APPROVE",
+      "decided_by": "Anjali Rao",
+      "role": "AP Associate",
+      "reason": "Electricity bill - utilities never have a PO. Amount is in line with the monthly average - approve.",
+      "approved_amount": null
+    }
+  },
+  {
+    "id": "INV-DSA-0406-W01",
+    "vendor_id": "V01",
+    "invoice_no": "DSA/26-27/0406",
+    "invoice_date": "2026-07-08",
+    "po_ref": "PO-267701",
+    "gstin": "36AADCD3812M1ZM",
+    "bank_account": "223005401501",
+    "bank_ifsc": "HDFC0000521",
+    "sender_email": "accounts@deccansteel.in",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.95,
+        "unit_price": 69938.5,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.74,
+        "unit_price": 62485.2,
+        "gst_rate": 18
+      }
+    ],
+    "charges": [],
+    "subtotal": 112680.62,
+    "gst_amount": 20282.51,
+    "total": 132963.13,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-DSA-0406-W01.pdf",
+    "ground_truth": {
+      "action": "APPROVE",
+      "decided_by": "Priya Reddy",
+      "role": "AP Lead",
+      "reason": "Deccan Steel is on steel-index pricing (JPC monthly index). A variance under 3% of PO is expected - approve.",
+      "approved_amount": null
+    }
+  },
+  {
+    "id": "INV-SLP-0415-W01",
+    "vendor_id": "V02",
+    "invoice_no": "SLP/26-27/0415",
+    "invoice_date": "2026-07-08",
+    "po_ref": "PO-267715",
+    "gstin": "36ABPFS7721Q1Z7",
+    "bank_account": "367469214295",
+    "bank_ifsc": "SBIN0020417",
+    "sender_email": "accounts@srilakshmipack.com",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2000,
+        "unit_price": 38.0,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ],
+    "charges": [
+      {
+        "description": "Freight & handling",
+        "amount": 1200,
+        "gst_rate": 18
+      }
+    ],
+    "subtotal": 106000.0,
+    "gst_amount": 19080.0,
+    "total": 125080.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-SLP-0415-W01.pdf",
+    "ground_truth": {
+      "action": "APPROVE",
+      "decided_by": "Ravi Kumar",
+      "role": "Senior AP Accountant",
+      "reason": "Agreed freight charge, not on PO by design - approve.",
+      "approved_amount": null
+    }
+  },
+  {
+    "id": "INV-HCL-0443-W01",
+    "vendor_id": "V06",
+    "invoice_no": "HCL/26-27/0443",
+    "invoice_date": "2026-07-08",
+    "po_ref": "PO-267776",
+    "gstin": "36AAACH6120P1ZG",
+    "bank_account": "354342113419",
+    "bank_ifsc": "KKBK0007712",
+    "sender_email": "accounts@hydchem.com",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 300,
+        "unit_price": 165.0,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210.0,
+        "gst_rate": 18
+      }
+    ],
+    "charges": [],
+    "subtotal": 70500.0,
+    "gst_amount": 12690.0,
+    "total": 83190.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-HCL-0443-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-TOS-0444-W01",
+    "vendor_id": "V10",
+    "invoice_no": "TOS/26-27/0444",
+    "invoice_date": "2026-07-08",
+    "po_ref": "PO-267813",
+    "gstin": "36ADVPT3390F1ZX",
+    "bank_account": "933251567391",
+    "bank_ifsc": "SBIN0011204",
+    "sender_email": "accounts@tosupplies.in",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 60,
+        "unit_price": 245.0,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 3,
+        "unit_price": 2150.0,
+        "gst_rate": 18
+      }
+    ],
+    "charges": [],
+    "subtotal": 21150.0,
+    "gst_amount": 2925.0,
+    "total": 24075.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-TOS-0444-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-GAP-0414-W01",
+    "vendor_id": "V04",
+    "invoice_no": "GAP/26-27/0414",
+    "invoice_date": "2026-07-09",
+    "po_ref": "PO-267733",
+    "gstin": "37AGKPG1964L1Z0",
+    "bank_account": "700832336208",
+    "bank_ifsc": "ANDB0001190",
+    "sender_email": "accounts@godavariagro.co.in",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92.0,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118.0,
+        "gst_rate": 5
+      }
+    ],
+    "charges": [],
+    "subtotal": 256000.0,
+    "gst_amount": 12800.0,
+    "total": 268800.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-GAP-0414-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-KCC-0432-W01",
+    "vendor_id": "V08",
+    "invoice_no": "KCC/26-27/0432",
+    "invoice_date": "2026-07-09",
+    "po_ref": "PO-267790",
+    "gstin": "37AAKFK9102E1ZE",
+    "bank_account": "871590378377",
+    "bank_ifsc": "HDFC0001866",
+    "sender_email": "accounts@kccl.in",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 42000.0,
+        "gst_rate": 12
+      }
+    ],
+    "charges": [
+      {
+        "description": "Fuel surcharge (2.1%)",
+        "amount": 2646.0,
+        "gst_rate": 12
+      }
+    ],
+    "subtotal": 128646.0,
+    "gst_amount": 15437.52,
+    "total": 144083.52,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-KCC-0432-W01.pdf",
+    "ground_truth": {
+      "action": "APPROVE",
+      "decided_by": "Ravi Kumar",
+      "role": "Senior AP Accountant",
+      "reason": "Fuel surcharge 2.1% is within the 5% contractual cap - approve.",
+      "approved_amount": null
+    }
+  },
+  {
+    "id": "INV-BJP-0456-W01",
+    "vendor_id": "V09",
+    "invoice_no": "BJP/26-27/0456",
+    "invoice_date": "2026-07-09",
+    "po_ref": "PO-267798",
+    "gstin": "36BXQPB4471R1ZP",
+    "bank_account": "590573056992",
+    "bank_ifsc": "CNRB0003321",
+    "sender_email": "accounts@banjaraprinters.com",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 25000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500.0,
+        "gst_rate": 12
+      }
+    ],
+    "charges": [],
+    "subtotal": 50750.0,
+    "gst_amount": 8865.0,
+    "total": 59615.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-BJP-0456-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-APX-0422-W01",
+    "vendor_id": "V05",
+    "invoice_no": "APX/26-27/0422",
+    "invoice_date": "2026-07-10",
+    "po_ref": "PO-267748",
+    "gstin": "36ACOFA2287D1ZC",
+    "bank_account": "136171878809",
+    "bank_ifsc": "UTIB0000733",
+    "sender_email": "accounts@apexlogistics.in",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000.0,
+        "gst_rate": 12
+      }
+    ],
+    "charges": [],
+    "subtotal": 112000.0,
+    "gst_amount": 13440.0,
+    "total": 125440.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-APX-0422-W01.pdf",
+    "ground_truth": null
+  },
+  {
+    "id": "INV-HSW-0445-W01",
+    "vendor_id": "V12",
+    "invoice_no": "HSW/26-27/0445",
+    "invoice_date": "2026-07-10",
+    "po_ref": "PO-267812",
+    "gstin": "36AAHCH2256K1ZE",
+    "bank_account": "472646369774",
+    "bank_ifsc": "HDFC0002215",
+    "sender_email": "accounts@hsaqua.in",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 250,
+        "unit_price": 65.0,
+        "gst_rate": 18
+      }
+    ],
+    "charges": [],
+    "subtotal": 16250.0,
+    "gst_amount": 2925.0,
+    "total": 19175.0,
+    "week": 1,
+    "pdf_path": "data/seed/invoices/pdf/INV-HSW-0445-W01.pdf",
+    "ground_truth": null
+  }
+]

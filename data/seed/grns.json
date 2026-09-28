@@ -1,0 +1,1811 @@
+[
+  {
+    "id": "GRN-5101",
+    "po_id": "PO-267701",
+    "received_date": "2026-07-07",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.95
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.74
+      }
+    ]
+  },
+  {
+    "id": "GRN-5102",
+    "po_id": "PO-267702",
+    "received_date": "2026-07-14",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 1.09
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.81
+      }
+    ]
+  },
+  {
+    "id": "GRN-5103",
+    "po_id": "PO-267703",
+    "received_date": "2026-07-22",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 1.13
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.85
+      }
+    ]
+  },
+  {
+    "id": "GRN-5104",
+    "po_id": "PO-267704",
+    "received_date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.82
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.69
+      }
+    ]
+  },
+  {
+    "id": "GRN-5105",
+    "po_id": "PO-267705",
+    "received_date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.95
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.78
+      }
+    ]
+  },
+  {
+    "id": "GRN-5106",
+    "po_id": "PO-267706",
+    "received_date": "2026-08-08",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.88
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.71
+      }
+    ]
+  },
+  {
+    "id": "GRN-5107",
+    "po_id": "PO-267707",
+    "received_date": "2026-08-19",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 1.01
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.7
+      }
+    ]
+  },
+  {
+    "id": "GRN-5108",
+    "po_id": "PO-267708",
+    "received_date": "2026-08-24",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.89
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.73
+      }
+    ]
+  },
+  {
+    "id": "GRN-5109",
+    "po_id": "PO-267709",
+    "received_date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.96
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.63
+      }
+    ]
+  },
+  {
+    "id": "GRN-5110",
+    "po_id": "PO-267710",
+    "received_date": "2026-09-09",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 1.06
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.76
+      }
+    ]
+  },
+  {
+    "id": "GRN-5111",
+    "po_id": "PO-267711",
+    "received_date": "2026-09-14",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.9
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.82
+      }
+    ]
+  },
+  {
+    "id": "GRN-5112",
+    "po_id": "PO-267712",
+    "received_date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 4
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5113",
+    "po_id": "PO-267713",
+    "received_date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 1.2
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.66
+      }
+    ]
+  },
+  {
+    "id": "GRN-5114",
+    "po_id": "PO-267714",
+    "received_date": "2026-10-08",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "qty_received": 0.86
+      },
+      {
+        "sku": "STL-HRS-20",
+        "qty_received": 0.66
+      }
+    ]
+  },
+  {
+    "id": "GRN-5115",
+    "po_id": "PO-267715",
+    "received_date": "2026-07-08",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2000
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5116",
+    "po_id": "PO-267716",
+    "received_date": "2026-07-14",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2000
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5117",
+    "po_id": "PO-267717",
+    "received_date": "2026-07-22",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 1500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5118",
+    "po_id": "PO-267718",
+    "received_date": "2026-07-31",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2000
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5119",
+    "po_id": "PO-267719",
+    "received_date": "2026-08-02",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5120",
+    "po_id": "PO-267720",
+    "received_date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2000
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 10000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5121",
+    "po_id": "PO-267721",
+    "received_date": "2026-08-15",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 10000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5122",
+    "po_id": "PO-267722",
+    "received_date": "2026-08-23",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2000
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5123",
+    "po_id": "PO-267723",
+    "received_date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5124",
+    "po_id": "PO-267724",
+    "received_date": "2026-09-07",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 12000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5125",
+    "po_id": "PO-267725",
+    "received_date": "2026-09-14",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 1500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 8000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5126",
+    "po_id": "PO-267726",
+    "received_date": "2026-09-19",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 1500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 8000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5127",
+    "po_id": "PO-267727",
+    "received_date": "2026-09-28",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 1500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 10000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5128",
+    "po_id": "PO-267728",
+    "received_date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "qty_received": 2500
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "qty_received": 10000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5129",
+    "po_id": "PO-267729",
+    "received_date": "2026-07-05",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "qty_received": 1
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5130",
+    "po_id": "PO-267730",
+    "received_date": "2026-08-02",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "qty_received": 1
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5131",
+    "po_id": "PO-267731",
+    "received_date": "2026-08-29",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "qty_received": 1
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5132",
+    "po_id": "PO-267732",
+    "received_date": "2026-09-27",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "qty_received": 1
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5133",
+    "po_id": "PO-267733",
+    "received_date": "2026-07-08",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1500
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5134",
+    "po_id": "PO-267734",
+    "received_date": "2026-07-14",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1409
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5135",
+    "po_id": "PO-267735",
+    "received_date": "2026-07-18",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 2000
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5136",
+    "po_id": "PO-267736",
+    "received_date": "2026-07-27",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1467
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5137",
+    "po_id": "PO-267737",
+    "received_date": "2026-08-02",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1500
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1500
+      }
+    ]
+  },
+  {
+    "id": "GRN-5138",
+    "po_id": "PO-267738",
+    "received_date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1952
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1500
+      }
+    ]
+  },
+  {
+    "id": "GRN-5139",
+    "po_id": "PO-267739",
+    "received_date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 2000
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5140",
+    "po_id": "PO-267740",
+    "received_date": "2026-08-26",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1399
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1500
+      }
+    ]
+  },
+  {
+    "id": "GRN-5141",
+    "po_id": "PO-267741",
+    "received_date": "2026-08-30",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1500
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5142",
+    "po_id": "PO-267742",
+    "received_date": "2026-09-11",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1403
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1500
+      }
+    ]
+  },
+  {
+    "id": "GRN-5143",
+    "po_id": "PO-267743",
+    "received_date": "2026-09-16",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1500
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1500
+      }
+    ]
+  },
+  {
+    "id": "GRN-5144",
+    "po_id": "PO-267744",
+    "received_date": "2026-09-21",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1926
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5145",
+    "po_id": "PO-267745",
+    "received_date": "2026-09-30",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 2000
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1500
+      }
+    ]
+  },
+  {
+    "id": "GRN-5146",
+    "po_id": "PO-267746",
+    "received_date": "2026-10-09",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "qty_received": 1867
+      },
+      {
+        "sku": "AGR-TOOR",
+        "qty_received": 1000
+      }
+    ]
+  },
+  {
+    "id": "GRN-5147",
+    "po_id": "PO-267747",
+    "received_date": "2026-07-06",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5148",
+    "po_id": "PO-267748",
+    "received_date": "2026-07-09",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5149",
+    "po_id": "PO-267749",
+    "received_date": "2026-07-15",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5150",
+    "po_id": "PO-267750",
+    "received_date": "2026-07-12",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5151",
+    "po_id": "PO-267751",
+    "received_date": "2026-07-23",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5152",
+    "po_id": "PO-267752",
+    "received_date": "2026-07-20",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5153",
+    "po_id": "PO-267753",
+    "received_date": "2026-07-28",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5154",
+    "po_id": "PO-267754",
+    "received_date": "2026-07-26",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5155",
+    "po_id": "PO-267755",
+    "received_date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5156",
+    "po_id": "PO-267756",
+    "received_date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5157",
+    "po_id": "PO-267757",
+    "received_date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5158",
+    "po_id": "PO-267758",
+    "received_date": "2026-08-09",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5159",
+    "po_id": "PO-267759",
+    "received_date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5160",
+    "po_id": "PO-267760",
+    "received_date": "2026-08-19",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5161",
+    "po_id": "PO-267761",
+    "received_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5162",
+    "po_id": "PO-267762",
+    "received_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5163",
+    "po_id": "PO-267763",
+    "received_date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5164",
+    "po_id": "PO-267764",
+    "received_date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5165",
+    "po_id": "PO-267765",
+    "received_date": "2026-09-08",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5166",
+    "po_id": "PO-267766",
+    "received_date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5167",
+    "po_id": "PO-267767",
+    "received_date": "2026-09-16",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5168",
+    "po_id": "PO-267768",
+    "received_date": "2026-09-14",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5169",
+    "po_id": "PO-267769",
+    "received_date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5170",
+    "po_id": "PO-267770",
+    "received_date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5171",
+    "po_id": "PO-267771",
+    "received_date": "2026-09-27",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5172",
+    "po_id": "PO-267772",
+    "received_date": "2026-09-30",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5173",
+    "po_id": "PO-267773",
+    "received_date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5174",
+    "po_id": "PO-267774",
+    "received_date": "2026-10-08",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 5
+      }
+    ]
+  },
+  {
+    "id": "GRN-5175",
+    "po_id": "PO-267775",
+    "received_date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5176",
+    "po_id": "PO-267776",
+    "received_date": "2026-07-08",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 300
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5177",
+    "po_id": "PO-267777",
+    "received_date": "2026-07-12",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5178",
+    "po_id": "PO-267778",
+    "received_date": "2026-07-20",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 400
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5179",
+    "po_id": "PO-267779",
+    "received_date": "2026-07-26",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5180",
+    "po_id": "PO-267780",
+    "received_date": "2026-08-06",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5181",
+    "po_id": "PO-267781",
+    "received_date": "2026-08-12",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5182",
+    "po_id": "PO-267782",
+    "received_date": "2026-08-19",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5183",
+    "po_id": "PO-267783",
+    "received_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5184",
+    "po_id": "PO-267784",
+    "received_date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5185",
+    "po_id": "PO-267785",
+    "received_date": "2026-09-08",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 300
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5186",
+    "po_id": "PO-267786",
+    "received_date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 400
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5187",
+    "po_id": "PO-267787",
+    "received_date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 300
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5188",
+    "po_id": "PO-267788",
+    "received_date": "2026-09-27",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 500
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 100
+      }
+    ]
+  },
+  {
+    "id": "GRN-5189",
+    "po_id": "PO-267789",
+    "received_date": "2026-10-05",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "qty_received": 300
+      },
+      {
+        "sku": "CHM-BENZ",
+        "qty_received": 150
+      }
+    ]
+  },
+  {
+    "id": "GRN-5190",
+    "po_id": "PO-267790",
+    "received_date": "2026-07-08",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5191",
+    "po_id": "PO-267791",
+    "received_date": "2026-07-20",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5192",
+    "po_id": "PO-267792",
+    "received_date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5193",
+    "po_id": "PO-267793",
+    "received_date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5194",
+    "po_id": "PO-267794",
+    "received_date": "2026-09-02",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5195",
+    "po_id": "PO-267795",
+    "received_date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5196",
+    "po_id": "PO-267796",
+    "received_date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5197",
+    "po_id": "PO-267797",
+    "received_date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5198",
+    "po_id": "PO-267798",
+    "received_date": "2026-07-08",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 25000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5199",
+    "po_id": "PO-267799",
+    "received_date": "2026-07-13",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 20000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5200",
+    "po_id": "PO-267800",
+    "received_date": "2026-07-21",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 25000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5201",
+    "po_id": "PO-267801",
+    "received_date": "2026-07-26",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 15000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5202",
+    "po_id": "PO-267802",
+    "received_date": "2026-08-02",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 20000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5203",
+    "po_id": "PO-267803",
+    "received_date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 15000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5204",
+    "po_id": "PO-267804",
+    "received_date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 20000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5205",
+    "po_id": "PO-267805",
+    "received_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 15000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5206",
+    "po_id": "PO-267806",
+    "received_date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 15000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5207",
+    "po_id": "PO-267807",
+    "received_date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 15000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5208",
+    "po_id": "PO-267808",
+    "received_date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 15000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5209",
+    "po_id": "PO-267809",
+    "received_date": "2026-09-21",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 25000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5210",
+    "po_id": "PO-267810",
+    "received_date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 20000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5211",
+    "po_id": "PO-267811",
+    "received_date": "2026-10-05",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "qty_received": 25000
+      },
+      {
+        "sku": "PRN-PLATE",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5212",
+    "po_id": "PO-267812",
+    "received_date": "2026-07-10",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 250
+      }
+    ]
+  },
+  {
+    "id": "GRN-5213",
+    "po_id": "PO-267813",
+    "received_date": "2026-07-06",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 60
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5214",
+    "po_id": "PO-267814",
+    "received_date": "2026-07-15",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 250
+      }
+    ]
+  },
+  {
+    "id": "GRN-5215",
+    "po_id": "PO-267815",
+    "received_date": "2026-07-21",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5216",
+    "po_id": "PO-267816",
+    "received_date": "2026-07-23",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 50
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5217",
+    "po_id": "PO-267817",
+    "received_date": "2026-07-18",
+    "lines": [
+      {
+        "sku": "IT-AMC-Q",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5218",
+    "po_id": "PO-267818",
+    "received_date": "2026-07-28",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5219",
+    "po_id": "PO-267819",
+    "received_date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5220",
+    "po_id": "PO-267820",
+    "received_date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 50
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5221",
+    "po_id": "PO-267821",
+    "received_date": "2026-08-13",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 350
+      }
+    ]
+  },
+  {
+    "id": "GRN-5222",
+    "po_id": "PO-267822",
+    "received_date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5223",
+    "po_id": "PO-267823",
+    "received_date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 60
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 4
+      }
+    ]
+  },
+  {
+    "id": "GRN-5224",
+    "po_id": "PO-267824",
+    "received_date": "2026-08-16",
+    "lines": [
+      {
+        "sku": "IT-AMC-Q",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5225",
+    "po_id": "PO-267825",
+    "received_date": "2026-08-28",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 250
+      }
+    ]
+  },
+  {
+    "id": "GRN-5226",
+    "po_id": "PO-267826",
+    "received_date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 350
+      }
+    ]
+  },
+  {
+    "id": "GRN-5227",
+    "po_id": "PO-267827",
+    "received_date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 60
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5228",
+    "po_id": "PO-267828",
+    "received_date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5229",
+    "po_id": "PO-267829",
+    "received_date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5230",
+    "po_id": "PO-267830",
+    "received_date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 60
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 3
+      }
+    ]
+  },
+  {
+    "id": "GRN-5231",
+    "po_id": "PO-267831",
+    "received_date": "2026-09-12",
+    "lines": [
+      {
+        "sku": "IT-AMC-Q",
+        "qty_received": 1
+      }
+    ]
+  },
+  {
+    "id": "GRN-5232",
+    "po_id": "PO-267832",
+    "received_date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  },
+  {
+    "id": "GRN-5233",
+    "po_id": "PO-267833",
+    "received_date": "2026-09-29",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 350
+      }
+    ]
+  },
+  {
+    "id": "GRN-5234",
+    "po_id": "PO-267834",
+    "received_date": "2026-09-27",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "qty_received": 60
+      },
+      {
+        "sku": "OFF-TONER",
+        "qty_received": 2
+      }
+    ]
+  },
+  {
+    "id": "GRN-5235",
+    "po_id": "PO-267835",
+    "received_date": "2026-10-07",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "qty_received": 300
+      }
+    ]
+  }
+]

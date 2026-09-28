@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bg-nimbus-billing",
+    "date": "2026-02-10",
+    "context": "Note from Nimbus Cloud account manager",
+    "content": "Nimbus Cloud Services account manager note: their billing portal automatically re-sends any invoice that is unpaid after 7 days, with the same invoice number.",
+    "tags": [
+      "vendor:v03",
+      "exc:duplicate"
+    ]
+  },
+  {
+    "id": "bg-deccan-fraud-march",
+    "date": "2026-03-18",
+    "context": "Incident report - AP / IT security",
+    "content": "Incident (18 Mar 2026): an email from deccan-steels.in (look-alike of Deccan Steel & Alloys' real domain deccansteel.in) asked AP to update Deccan's bank account to a new Axis Bank account before month-end. Priya Reddy did a call-back on the number in the vendor master; Deccan confirmed they had not requested any change. Confirmed business email compromise attempt - no payment was made.",
+    "tags": [
+      "vendor:v01",
+      "risk",
+      "exc:bank_change",
+      "outcome"
+    ]
+  },
+  {
+    "id": "bg-kccl-contract",
+    "date": "2026-04-02",
+    "context": "Rate contract - Krishna Cold Chain Logistics",
+    "content": "Rate contract FY 2026-27 with Krishna Cold Chain Logistics (signed 02 Apr 2026): reefer trips Hyderabad-Vijayawada at Rs 42,000 per trip. A diesel-linked fuel surcharge of up to 5% of the freight value may be billed as a separate line; anything above 5% needs a revised quote approved by procurement.",
+    "tags": [
+      "vendor:v08",
+      "exc:unpo_charge",
+      "contract"
+    ]
+  },
+  {
+    "id": "bg-hcl-unit2",
+    "date": "2026-08-11",
+    "context": "Email from Hyderabad Chemicals + GST portal check",
+    "content": "Hyderabad Chemicals Ltd sent the GST registration certificate for their new Unit-II at Patancheru Phase 2 (GSTIN 36AAACH6120P2ZF, same PAN, active since 01 Jun 2026). Ravi Kumar verified it on the GST portal. Invoices from Unit-II will carry this GSTIN and are valid; the master record keeps the head-office GSTIN.",
+    "tags": [
+      "vendor:v06",
+      "exc:gstin_mismatch"
+    ]
+  },
+  {
+    "id": "bg-deccan-policy",
+    "date": "2026-08-24",
+    "context": "Email from Suresh Iyer, Finance Controller",
+    "content": "Email from Suresh Iyer (Finance Controller) to the AP team on 24 Aug 2026: \"Steel index volatility has gone up. Effective today, any Deccan Steel & Alloys invoice with a price variance above 2% over PO must be escalated to me. AP can continue to approve variances up to 2%. This replaces the earlier 3% band.\"",
+    "tags": [
+      "vendor:v01",
+      "exc:price_var",
+      "policy"
+    ]
+  },
+  {
+    "id": "bg-apex-fraud-outcome",
+    "date": "2026-09-04",
+    "context": "Outcome confirmation - IT security",
+    "content": "Outcome: the Apex Logistics bank-change request (email from apex-logistics.co, new ICICI account) was confirmed as a business email compromise attempt. Apex's real domain is apexlogistics.in and their bank details have not changed since onboarding. The look-alike domain was blocked.",
+    "tags": [
+      "vendor:v05",
+      "risk",
+      "exc:bank_change",
+      "outcome"
+    ]
+  }
+]

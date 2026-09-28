@@ -1,0 +1,2891 @@
+[
+  {
+    "id": "PO-267701",
+    "vendor_id": "V01",
+    "po_date": "2026-06-28",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.95,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.74,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267702",
+    "vendor_id": "V01",
+    "po_date": "2026-07-10",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 1.09,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.81,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267703",
+    "vendor_id": "V01",
+    "po_date": "2026-07-12",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 1.13,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.85,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267704",
+    "vendor_id": "V01",
+    "po_date": "2026-07-23",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.82,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.69,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267705",
+    "vendor_id": "V01",
+    "po_date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.95,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.78,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267706",
+    "vendor_id": "V01",
+    "po_date": "2026-07-31",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.88,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.71,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267707",
+    "vendor_id": "V01",
+    "po_date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 1.01,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.7,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267708",
+    "vendor_id": "V01",
+    "po_date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.89,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.73,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267709",
+    "vendor_id": "V01",
+    "po_date": "2026-08-24",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.96,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.63,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267710",
+    "vendor_id": "V01",
+    "po_date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 1.06,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.76,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267711",
+    "vendor_id": "V01",
+    "po_date": "2026-09-05",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.9,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.82,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267712",
+    "vendor_id": "V01",
+    "po_date": "2026-09-16",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 4,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 4,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267713",
+    "vendor_id": "V01",
+    "po_date": "2026-09-25",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 1.2,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.66,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267714",
+    "vendor_id": "V01",
+    "po_date": "2026-09-28",
+    "lines": [
+      {
+        "sku": "STL-CRCA-08",
+        "description": "CRCA Steel Coil 0.8mm",
+        "hsn": "7209",
+        "unit": "MT",
+        "qty": 0.86,
+        "unit_price": 68500,
+        "gst_rate": 18
+      },
+      {
+        "sku": "STL-HRS-20",
+        "description": "HR Steel Sheet 2.0mm",
+        "hsn": "7208",
+        "unit": "MT",
+        "qty": 0.66,
+        "unit_price": 61200,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267715",
+    "vendor_id": "V02",
+    "po_date": "2026-06-28",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2000,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267716",
+    "vendor_id": "V02",
+    "po_date": "2026-07-09",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2000,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267717",
+    "vendor_id": "V02",
+    "po_date": "2026-07-12",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 1500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267718",
+    "vendor_id": "V02",
+    "po_date": "2026-07-21",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2000,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267719",
+    "vendor_id": "V02",
+    "po_date": "2026-07-24",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267720",
+    "vendor_id": "V02",
+    "po_date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2000,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 10000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267721",
+    "vendor_id": "V02",
+    "po_date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 10000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267722",
+    "vendor_id": "V02",
+    "po_date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2000,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267723",
+    "vendor_id": "V02",
+    "po_date": "2026-08-21",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267724",
+    "vendor_id": "V02",
+    "po_date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 12000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267725",
+    "vendor_id": "V02",
+    "po_date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 1500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 8000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267726",
+    "vendor_id": "V02",
+    "po_date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 1500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 8000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267727",
+    "vendor_id": "V02",
+    "po_date": "2026-09-18",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 1500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 10000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267728",
+    "vendor_id": "V02",
+    "po_date": "2026-09-26",
+    "lines": [
+      {
+        "sku": "PKG-BOX-5P",
+        "description": "Corrugated Box 5-Ply (450x300x250)",
+        "hsn": "4819",
+        "unit": "PCS",
+        "qty": 2500,
+        "unit_price": 38,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PKG-POUCH-1K",
+        "description": "Laminated Pouch 1kg (printed)",
+        "hsn": "3923",
+        "unit": "PCS",
+        "qty": 10000,
+        "unit_price": 2.4,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267729",
+    "vendor_id": "V03",
+    "po_date": "2026-06-26",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "description": "ERP Cloud Subscription - 45 users (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 84000,
+        "gst_rate": 18
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "description": "Additional Storage 500 GB (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 6500,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267730",
+    "vendor_id": "V03",
+    "po_date": "2026-07-22",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "description": "ERP Cloud Subscription - 45 users (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 84000,
+        "gst_rate": 18
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "description": "Additional Storage 500 GB (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 6500,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267731",
+    "vendor_id": "V03",
+    "po_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "description": "ERP Cloud Subscription - 45 users (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 84000,
+        "gst_rate": 18
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "description": "Additional Storage 500 GB (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 6500,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267732",
+    "vendor_id": "V03",
+    "po_date": "2026-09-19",
+    "lines": [
+      {
+        "sku": "SAAS-ERP-M",
+        "description": "ERP Cloud Subscription - 45 users (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 84000,
+        "gst_rate": 18
+      },
+      {
+        "sku": "SAAS-STO-500",
+        "description": "Additional Storage 500 GB (monthly)",
+        "hsn": "998315",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 6500,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267733",
+    "vendor_id": "V04",
+    "po_date": "2026-06-28",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267734",
+    "vendor_id": "V04",
+    "po_date": "2026-07-05",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267735",
+    "vendor_id": "V04",
+    "po_date": "2026-07-11",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 2000,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267736",
+    "vendor_id": "V04",
+    "po_date": "2026-07-19",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267737",
+    "vendor_id": "V04",
+    "po_date": "2026-07-27",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267738",
+    "vendor_id": "V04",
+    "po_date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 2000,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267739",
+    "vendor_id": "V04",
+    "po_date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 2000,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267740",
+    "vendor_id": "V04",
+    "po_date": "2026-08-16",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267741",
+    "vendor_id": "V04",
+    "po_date": "2026-08-26",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267742",
+    "vendor_id": "V04",
+    "po_date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267743",
+    "vendor_id": "V04",
+    "po_date": "2026-09-08",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267744",
+    "vendor_id": "V04",
+    "po_date": "2026-09-14",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 2000,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267745",
+    "vendor_id": "V04",
+    "po_date": "2026-09-18",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 2000,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1500,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267746",
+    "vendor_id": "V04",
+    "po_date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "AGR-CHANA",
+        "description": "Chana Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 2000,
+        "unit_price": 92,
+        "gst_rate": 5
+      },
+      {
+        "sku": "AGR-TOOR",
+        "description": "Toor Dal (bulk, 50kg bags)",
+        "hsn": "0713",
+        "unit": "KG",
+        "qty": 1000,
+        "unit_price": 118,
+        "gst_rate": 5
+      }
+    ]
+  },
+  {
+    "id": "PO-267747",
+    "vendor_id": "V05",
+    "po_date": "2026-06-29",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267748",
+    "vendor_id": "V05",
+    "po_date": "2026-06-29",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267749",
+    "vendor_id": "V05",
+    "po_date": "2026-07-11",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267750",
+    "vendor_id": "V05",
+    "po_date": "2026-07-06",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267751",
+    "vendor_id": "V05",
+    "po_date": "2026-07-17",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267752",
+    "vendor_id": "V05",
+    "po_date": "2026-07-10",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267753",
+    "vendor_id": "V05",
+    "po_date": "2026-07-19",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267754",
+    "vendor_id": "V05",
+    "po_date": "2026-07-16",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267755",
+    "vendor_id": "V05",
+    "po_date": "2026-07-26",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267756",
+    "vendor_id": "V05",
+    "po_date": "2026-07-27",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267757",
+    "vendor_id": "V05",
+    "po_date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267758",
+    "vendor_id": "V05",
+    "po_date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267759",
+    "vendor_id": "V05",
+    "po_date": "2026-08-09",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267760",
+    "vendor_id": "V05",
+    "po_date": "2026-08-07",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267761",
+    "vendor_id": "V05",
+    "po_date": "2026-08-14",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267762",
+    "vendor_id": "V05",
+    "po_date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267763",
+    "vendor_id": "V05",
+    "po_date": "2026-08-20",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267764",
+    "vendor_id": "V05",
+    "po_date": "2026-08-21",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267765",
+    "vendor_id": "V05",
+    "po_date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267766",
+    "vendor_id": "V05",
+    "po_date": "2026-08-26",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267767",
+    "vendor_id": "V05",
+    "po_date": "2026-09-09",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267768",
+    "vendor_id": "V05",
+    "po_date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267769",
+    "vendor_id": "V05",
+    "po_date": "2026-09-11",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267770",
+    "vendor_id": "V05",
+    "po_date": "2026-09-16",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267771",
+    "vendor_id": "V05",
+    "po_date": "2026-09-22",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267772",
+    "vendor_id": "V05",
+    "po_date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267773",
+    "vendor_id": "V05",
+    "po_date": "2026-09-26",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267774",
+    "vendor_id": "V05",
+    "po_date": "2026-10-03",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 5,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267775",
+    "vendor_id": "V05",
+    "po_date": "2026-08-28",
+    "lines": [
+      {
+        "sku": "LOG-FTL-VJA",
+        "description": "FTL Freight Hyderabad -> Vijayawada (32ft)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 4,
+        "unit_price": 28000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267776",
+    "vendor_id": "V06",
+    "po_date": "2026-06-29",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 300,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267777",
+    "vendor_id": "V06",
+    "po_date": "2026-07-02",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267778",
+    "vendor_id": "V06",
+    "po_date": "2026-07-13",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 400,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267779",
+    "vendor_id": "V06",
+    "po_date": "2026-07-19",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267780",
+    "vendor_id": "V06",
+    "po_date": "2026-07-28",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267781",
+    "vendor_id": "V06",
+    "po_date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267782",
+    "vendor_id": "V06",
+    "po_date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267783",
+    "vendor_id": "V06",
+    "po_date": "2026-08-14",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267784",
+    "vendor_id": "V06",
+    "po_date": "2026-08-19",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267785",
+    "vendor_id": "V06",
+    "po_date": "2026-09-02",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 300,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267786",
+    "vendor_id": "V06",
+    "po_date": "2026-09-08",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 400,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267787",
+    "vendor_id": "V06",
+    "po_date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 300,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267788",
+    "vendor_id": "V06",
+    "po_date": "2026-09-16",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 500,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 100,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267789",
+    "vendor_id": "V06",
+    "po_date": "2026-09-25",
+    "lines": [
+      {
+        "sku": "CHM-CITRIC",
+        "description": "Citric Acid Monohydrate (food grade)",
+        "hsn": "2918",
+        "unit": "KG",
+        "qty": 300,
+        "unit_price": 165,
+        "gst_rate": 18
+      },
+      {
+        "sku": "CHM-BENZ",
+        "description": "Sodium Benzoate (food grade)",
+        "hsn": "2916",
+        "unit": "KG",
+        "qty": 150,
+        "unit_price": 210,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267790",
+    "vendor_id": "V08",
+    "po_date": "2026-06-30",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267791",
+    "vendor_id": "V08",
+    "po_date": "2026-07-13",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267792",
+    "vendor_id": "V08",
+    "po_date": "2026-07-28",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267793",
+    "vendor_id": "V08",
+    "po_date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 2,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267794",
+    "vendor_id": "V08",
+    "po_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 2,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267795",
+    "vendor_id": "V08",
+    "po_date": "2026-09-11",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267796",
+    "vendor_id": "V08",
+    "po_date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 3,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267797",
+    "vendor_id": "V08",
+    "po_date": "2026-09-25",
+    "lines": [
+      {
+        "sku": "LOG-REEFER",
+        "description": "Reefer Transport Hyderabad -> Vijayawada (temp-controlled)",
+        "hsn": "996511",
+        "unit": "TRIP",
+        "qty": 2,
+        "unit_price": 42000,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267798",
+    "vendor_id": "V09",
+    "po_date": "2026-07-02",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 25000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267799",
+    "vendor_id": "V09",
+    "po_date": "2026-07-04",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 20000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267800",
+    "vendor_id": "V09",
+    "po_date": "2026-07-16",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 25000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267801",
+    "vendor_id": "V09",
+    "po_date": "2026-07-16",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 15000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 2,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267802",
+    "vendor_id": "V09",
+    "po_date": "2026-07-26",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 20000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267803",
+    "vendor_id": "V09",
+    "po_date": "2026-07-31",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 15000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 2,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267804",
+    "vendor_id": "V09",
+    "po_date": "2026-08-08",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 20000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 2,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267805",
+    "vendor_id": "V09",
+    "po_date": "2026-08-14",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 15000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 2,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267806",
+    "vendor_id": "V09",
+    "po_date": "2026-08-20",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 15000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267807",
+    "vendor_id": "V09",
+    "po_date": "2026-08-30",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 15000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267808",
+    "vendor_id": "V09",
+    "po_date": "2026-09-04",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 15000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 2,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267809",
+    "vendor_id": "V09",
+    "po_date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 25000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267810",
+    "vendor_id": "V09",
+    "po_date": "2026-09-20",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 20000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 2,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267811",
+    "vendor_id": "V09",
+    "po_date": "2026-09-25",
+    "lines": [
+      {
+        "sku": "PRN-LBL-4C",
+        "description": "Printed Labels 4-colour (100x70mm)",
+        "hsn": "4821",
+        "unit": "PCS",
+        "qty": 25000,
+        "unit_price": 1.85,
+        "gst_rate": 18
+      },
+      {
+        "sku": "PRN-PLATE",
+        "description": "Carton Printing Plates (set)",
+        "hsn": "8442",
+        "unit": "SET",
+        "qty": 1,
+        "unit_price": 4500,
+        "gst_rate": 12
+      }
+    ]
+  },
+  {
+    "id": "PO-267812",
+    "vendor_id": "V12",
+    "po_date": "2026-06-28",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 250,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267813",
+    "vendor_id": "V10",
+    "po_date": "2026-07-02",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 60,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 3,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267814",
+    "vendor_id": "V12",
+    "po_date": "2026-07-04",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 250,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267815",
+    "vendor_id": "V12",
+    "po_date": "2026-07-11",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267816",
+    "vendor_id": "V10",
+    "po_date": "2026-07-13",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 50,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 2,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267817",
+    "vendor_id": "V11",
+    "po_date": "2026-07-08",
+    "lines": [
+      {
+        "sku": "IT-AMC-Q",
+        "description": "Desktop & Network AMC (monthly)",
+        "hsn": "998713",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 38000,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267818",
+    "vendor_id": "V12",
+    "po_date": "2026-07-18",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267819",
+    "vendor_id": "V12",
+    "po_date": "2026-07-24",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267820",
+    "vendor_id": "V10",
+    "po_date": "2026-07-23",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 50,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 3,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267821",
+    "vendor_id": "V12",
+    "po_date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 350,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267822",
+    "vendor_id": "V12",
+    "po_date": "2026-08-09",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267823",
+    "vendor_id": "V10",
+    "po_date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 60,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 4,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267824",
+    "vendor_id": "V11",
+    "po_date": "2026-08-06",
+    "lines": [
+      {
+        "sku": "IT-AMC-Q",
+        "description": "Desktop & Network AMC (monthly)",
+        "hsn": "998713",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 38000,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267825",
+    "vendor_id": "V12",
+    "po_date": "2026-08-21",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 250,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267826",
+    "vendor_id": "V12",
+    "po_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 350,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267827",
+    "vendor_id": "V10",
+    "po_date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 60,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 3,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267828",
+    "vendor_id": "V12",
+    "po_date": "2026-08-30",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267829",
+    "vendor_id": "V12",
+    "po_date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267830",
+    "vendor_id": "V10",
+    "po_date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 60,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 3,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267831",
+    "vendor_id": "V11",
+    "po_date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "IT-AMC-Q",
+        "description": "Desktop & Network AMC (monthly)",
+        "hsn": "998713",
+        "unit": "MON",
+        "qty": 1,
+        "unit_price": 38000,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267832",
+    "vendor_id": "V12",
+    "po_date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267833",
+    "vendor_id": "V12",
+    "po_date": "2026-09-21",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 350,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267834",
+    "vendor_id": "V10",
+    "po_date": "2026-09-22",
+    "lines": [
+      {
+        "sku": "OFF-A4-75",
+        "description": "A4 Copier Paper 75 GSM (ream)",
+        "hsn": "4802",
+        "unit": "REAM",
+        "qty": 60,
+        "unit_price": 245,
+        "gst_rate": 12
+      },
+      {
+        "sku": "OFF-TONER",
+        "description": "Toner Cartridge HP 88A",
+        "hsn": "8443",
+        "unit": "PCS",
+        "qty": 2,
+        "unit_price": 2150,
+        "gst_rate": 18
+      }
+    ]
+  },
+  {
+    "id": "PO-267835",
+    "vendor_id": "V12",
+    "po_date": "2026-09-27",
+    "lines": [
+      {
+        "sku": "CAN-WATER-20",
+        "description": "Packaged Drinking Water 20L Jar",
+        "hsn": "2201",
+        "unit": "JAR",
+        "qty": 300,
+        "unit_price": 65,
+        "gst_rate": 18
+      }
+    ]
+  }
+]

@@ -219,13 +219,13 @@ async def record_decision(s: Session, case: ExceptionCase, *, action: str, decid
         if not agreed:
             cell.last_override_at = utcnow()
     s.commit()
+    s.refresh(decision)
 
     if ladder_event:
         events.publish(ladder_event, vendor=vendor.name, vendor_id=vendor.id, code=case.primary_code,
                        level=s.get(TrustCell, (case.vendor_id, case.primary_code)).level)
 
     await retain_case(s, case, decision, proposal, wait=wait_for_memory)
-    s.refresh(decision)
     return decision
 
 
